@@ -7,7 +7,7 @@ click==8.0.1
 discord==1.7.3
 discord.py==1.7.3
 Flask==2.0.1
-idna==2.10
+idna==3.7
 itsdangerous==2.0.1
 Jinja2==3.0.1
 MarkupSafe==2.0.1
